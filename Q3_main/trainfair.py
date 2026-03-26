@@ -1,0 +1,1 @@
+print("Fairness loss:", abs(0.9 - 0.7))
